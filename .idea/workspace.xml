@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="40c3270e-aeeb-4278-9bc2-703f9ffa140d" name="Changes" comment="iPhone13 v2">
+      <change afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2X2fHeaeyTF4kljUQtHRvYZNLgS" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/IT/codewars",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.sourceCode.TypeScript",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IT\Incubator\Find_job\CRM\BP_Mobile\Dudenlov_Andrei_testovoe\app\layouts" />
+      <recent name="D:\IT\Incubator\Find_job\CRM\BP_Mobile\Dudenlov_Andrei_testovoe\app\scss" />
+      <recent name="D:\IT\Incubator\Find_job\CRM\BP_Mobile\Dudenlov_Andrei_testovoe\app\scss\components" />
+      <recent name="D:\IT\Incubator\Find_job\CRM\BP_Mobile\Dudenlov_Andrei_testovoe\app" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IT\Incubator\Find_job\CRM\BP_Mobile\Dudenlov_Andrei_testovoe\app\scss\components\iPhone_8" />
+      <recent name="D:\IT\Incubator\Find_job\CRM\BP_Mobile\Dudenlov_Andrei_testovoe\app\layouts" />
+      <recent name="D:\IT\Incubator\Find_job\CRM\BP_Mobile\Dudenlov_Andrei_testovoe\app\layouts\iPhone_13" />
+      <recent name="D:\IT\Incubator\Find_job\CRM\BP_Mobile\Dudenlov_Andrei_testovoe\app\layouts\iPhone_8" />
+      <recent name="D:\IT\Incubator\Find_job\CRM\BP_Mobile\Dudenlov_Andrei_testovoe\app" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40c3270e-aeeb-4278-9bc2-703f9ffa140d" name="Changes" comment="" />
+      <created>1697832008199</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697832008199</updated>
+      <workItem from="1697832009512" duration="1868000" />
+      <workItem from="1697844319702" duration="4556000" />
+      <workItem from="1697906968249" duration="15100000" />
+      <workItem from="1698001272043" duration="10595000" />
+      <workItem from="1698085566304" duration="7922000" />
+      <workItem from="1698173864514" duration="10295000" />
+      <workItem from="1698260232037" duration="1393000" />
+      <workItem from="1698261667615" duration="8787000" />
+      <workItem from="1698437174911" duration="12460000" />
+      <workItem from="1698610630888" duration="9580000" />
+      <workItem from="1698621179332" duration="188000" />
+      <workItem from="1698661063232" duration="2771000" />
+    </task>
+    <task id="LOCAL-00001" summary="iPhoneSE">
+      <created>1698264140481</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698264140481</updated>
+    </task>
+    <task id="LOCAL-00002" summary="iPhone13">
+      <created>1698449744674</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698449744674</updated>
+    </task>
+    <task id="LOCAL-00003" summary="iPhone13 v2">
+      <created>1698620443817</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1698620443817</updated>
+    </task>
+    <task id="LOCAL-00004" summary="iPhone13 v2">
+      <created>1698620883536</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698620883536</updated>
+    </task>
+    <task id="LOCAL-00005" summary="iPhone13 v2">
+      <created>1698621104965</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1698621104965</updated>
+    </task>
+    <task id="LOCAL-00006" summary="iPhone13 v2">
+      <created>1698621286455</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1698621286455</updated>
+    </task>
+    <task id="LOCAL-00007" summary="iPhone13 v2">
+      <created>1698621307977</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1698621307977</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="iPhoneSE" />
+    <MESSAGE value="iPhone13" />
+    <MESSAGE value="iPhone13 v2" />
+    <option name="LAST_COMMIT_MESSAGE" value="iPhone13 v2" />
+  </component>
+</project>

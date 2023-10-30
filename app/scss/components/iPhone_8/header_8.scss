@@ -1,0 +1,29 @@
+.header_8 {
+  height: 60px;
+}
+
+.Status_bar_8 {
+  display: flex;
+  justify-content: space-between;
+  height: 21px;
+  margin: 0 5px 3px 6px;
+}
+
+.Status_bar_elements_8 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.Status_bar_elements_8 img {
+  padding: 0 2px;
+}
+
+.Cross_8 {
+  width: 12px;
+  height: 12px;
+  flex-shrink: 0;
+  padding: 15px 0 0 24px;
+  stroke-width: 1px;
+  stroke: rgba(255, 255, 255, 0.40);
+}

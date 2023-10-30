@@ -1,0 +1,25 @@
+.main_13 {
+  margin: 140px 24px 0 24px;
+  flex-direction: column;
+  align-items: center;
+  @media (min-height: 925px) {
+    margin-bottom: 55px;
+  }
+}
+
+.Inscription_Access_13 {
+  margin: 0 0 40px 0;
+  height: 92px;
+  color: #FFF;
+  text-align: center;
+  text-shadow: 0 0 48px rgba(4, 3, 26, 0.83);
+  font-family: 'SF Pro Display', sans-serif;
+  font-size: 42px;
+  font-style: normal;
+  font-weight: 860;
+  line-height: 46px;
+  @media (min-height: 925px) {
+    margin-bottom: 60px;
+    font-size: 55px;
+  }
+}

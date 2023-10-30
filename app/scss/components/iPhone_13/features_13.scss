@@ -1,0 +1,29 @@
+.Features_13 {
+  margin: 0 0 50px 0;
+  height: 138px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  @media (min-height: 925px) {
+    margin-bottom: 60px;
+  }
+}
+
+.Features_item_13 {
+  position: relative;
+}
+
+.Inscription_creationText_13 {
+  position: absolute;
+  width: 90px;
+  height: 27px;
+  top: 100.8px;
+  left: 7.2px;
+  font-family: 'SF Pro Display', sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 13px;
+  letter-spacing: 0;
+  text-align: left;
+  color: rgba(255, 255, 255, 1);
+}
