@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40c3270e-aeeb-4278-9bc2-703f9ffa140d" name="Changes" comment="iPhone13 v2">
-      <change afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +42,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/IT/codewars",
+    "last_opened_file_path": "D:/IT/Incubator/Find_job/CRM/Webpack",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -85,7 +85,8 @@
       <workItem from="1698437174911" duration="12460000" />
       <workItem from="1698610630888" duration="9580000" />
       <workItem from="1698621179332" duration="188000" />
-      <workItem from="1698661063232" duration="2771000" />
+      <workItem from="1698661063232" duration="3368000" />
+      <workItem from="1698701217075" duration="93000" />
     </task>
     <task id="LOCAL-00001" summary="iPhoneSE">
       <created>1698264140481</created>
