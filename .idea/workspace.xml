@@ -1,8 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="40c3270e-aeeb-4278-9bc2-703f9ffa140d" name="Changes" comment="iPhone13 v2">
+    <list default="true" id="40c3270e-aeeb-4278-9bc2-703f9ffa140d" name="Changes" comment="for test">
+      <change afterPath="$PROJECT_DIR$/dist/css/style.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/css/style_13.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/css/style_8.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fonts/Roboto-Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fonts/Roboto-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fonts/sf-pro-display-cufonfonts/SFPRODISPLAYBLACKITALIC.OTF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fonts/sf-pro-display-cufonfonts/SFPRODISPLAYBOLD.OTF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fonts/sf-pro-display-cufonfonts/SFPRODISPLAYHEAVYITALIC.OTF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fonts/sf-pro-display-cufonfonts/SFPRODISPLAYLIGHTITALIC.OTF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fonts/sf-pro-display-cufonfonts/SFPRODISPLAYMEDIUM.OTF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fonts/sf-pro-display-cufonfonts/SFPRODISPLAYREGULAR.OTF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fonts/sf-pro-display-cufonfonts/SFPRODISPLAYSEMIBOLDITALIC.OTF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fonts/sf-pro-display-cufonfonts/SFPRODISPLAYTHINITALIC.OTF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fonts/sf-pro-display-cufonfonts/SFPRODISPLAYULTRALIGHTITALIC.OTF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/cards/bg_13iphone.png.opdownload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/cards/bg_13iphone.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/cards/bg_Arta_8iphone_1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/cards/card1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/cards/card2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/cards/card3.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/cards/card4.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/cards/f1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/cards/f2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/cards/f2_3x.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/cards/f3.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/cards/sf-pro-display-cufonfonts.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/icons/100%.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/icons/Battery.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/icons/Bluetooth.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/icons/Carrier.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/icons/Cross.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/icons/Mobile Signal.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/icons/Time.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/icons/Time13.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/icons/Wifi.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/index.iPhone_13.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/index.iPhone_8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/libs/swiper-bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/main.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +82,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/IT/Incubator/Find_job/CRM/Webpack",
+    "last_opened_file_path": "D:/IT/Incubator/Find_job/CRM/BP_Mobile/Dudenlov_Andrei_testovoe",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -59,11 +99,11 @@
       <recent name="D:\IT\Incubator\Find_job\CRM\BP_Mobile\Dudenlov_Andrei_testovoe\app" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IT\Incubator\Find_job\CRM\BP_Mobile\Dudenlov_Andrei_testovoe\app" />
+      <recent name="D:\IT\Incubator\Find_job\CRM\BP_Mobile\Dudenlov_Andrei_testovoe" />
       <recent name="D:\IT\Incubator\Find_job\CRM\BP_Mobile\Dudenlov_Andrei_testovoe\app\scss\components\iPhone_8" />
       <recent name="D:\IT\Incubator\Find_job\CRM\BP_Mobile\Dudenlov_Andrei_testovoe\app\layouts" />
       <recent name="D:\IT\Incubator\Find_job\CRM\BP_Mobile\Dudenlov_Andrei_testovoe\app\layouts\iPhone_13" />
-      <recent name="D:\IT\Incubator\Find_job\CRM\BP_Mobile\Dudenlov_Andrei_testovoe\app\layouts\iPhone_8" />
-      <recent name="D:\IT\Incubator\Find_job\CRM\BP_Mobile\Dudenlov_Andrei_testovoe\app" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -87,6 +127,7 @@
       <workItem from="1698621179332" duration="188000" />
       <workItem from="1698661063232" duration="3368000" />
       <workItem from="1698701217075" duration="93000" />
+      <workItem from="1698777815593" duration="735000" />
     </task>
     <task id="LOCAL-00001" summary="iPhoneSE">
       <created>1698264140481</created>
@@ -137,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698621307977</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="for test">
+      <created>1698777924901</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1698777924901</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,6 +207,7 @@
     <MESSAGE value="iPhoneSE" />
     <MESSAGE value="iPhone13" />
     <MESSAGE value="iPhone13 v2" />
-    <option name="LAST_COMMIT_MESSAGE" value="iPhone13 v2" />
+    <MESSAGE value="for test" />
+    <option name="LAST_COMMIT_MESSAGE" value="for test" />
   </component>
 </project>
